@@ -1,2 +1,2 @@
-# capstone
-I have done the capstone project in this one
+# staticSquare
+A static square made using Matter.js physics engine
